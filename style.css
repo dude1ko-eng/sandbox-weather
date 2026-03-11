@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
   max-width: 500px;
@@ -20,7 +19,6 @@ li {
   padding: 8px;
   border-bottom: 1px solid #ddd;
   text-align: left;
-=======
 body {
   font-family: Arial, sans-serif;
   max-width: 500px;
@@ -42,5 +40,4 @@ li {
   padding: 8px;
   border-bottom: 1px solid #ddd;
   text-align: left;
->>>>>>> fcd86cc (Adding Weather with search and Icons as first push)
 }
