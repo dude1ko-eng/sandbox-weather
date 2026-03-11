@@ -1,0 +1,46 @@
+<<<<<<< HEAD
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+input {
+  padding: 8px;
+  width: 70%;
+}
+button {
+  padding: 8px 12px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+=======
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+input {
+  padding: 8px;
+  width: 70%;
+}
+button {
+  padding: 8px 12px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+>>>>>>> fcd86cc (Adding Weather with search and Icons as first push)
+}
